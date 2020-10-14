@@ -5,7 +5,7 @@ Predicted loss and training model for detecting fraud card payment.
 
 It detect anomalies of payment from fraudulent card and cancel it. 
 
-Model is training well and we can see currend loss is decreasing each time the model "learn something" 
+Model is training well and we can see current loss is decreasing each time the model "learn something" 
 
 Final Accuracy : 87% (I will try to reach 90% with some modification) 
 
