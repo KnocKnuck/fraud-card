@@ -1,4 +1,7 @@
 # fraud-card
+
+[img]https://joseph-hani.fr/img/projet/card-model-python-joseph.jpg[/img]
+
 Fraud Detection (Credit Card) 
 
 Predicted loss and training model for detecting fraud card payment.
